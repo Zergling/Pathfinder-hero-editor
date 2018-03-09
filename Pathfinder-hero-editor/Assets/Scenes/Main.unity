@@ -328,12 +328,12 @@ Prefab:
     - target: {fileID: 114689203274618680, guid: 1ad3b09a01fe25f46a88fd73d5633909,
         type: 2}
       propertyPath: m_havePropertiesChanged
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114689203274618680, guid: 1ad3b09a01fe25f46a88fd73d5633909,
         type: 2}
       propertyPath: m_isInputParsingRequired
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1ad3b09a01fe25f46a88fd73d5633909, type: 2}
