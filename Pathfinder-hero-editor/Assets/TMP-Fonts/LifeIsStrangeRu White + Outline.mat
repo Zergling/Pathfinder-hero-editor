@@ -106,9 +106,9 @@ Material:
     - _Parallax: 0.02
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 0.8
-    - _ScaleRatioB: 0.604
-    - _ScaleRatioC: 0.604
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.57708335
+    - _ScaleRatioC: 0.57708335
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0

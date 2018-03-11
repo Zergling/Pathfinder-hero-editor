@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4299016601265300}
   - component: {fileID: 114096010842399820}
   - component: {fileID: 114209210137146232}
+  - component: {fileID: 114113603817904650}
   m_Layer: 0
   m_Name: SceneContext
   m_TagString: Untagged
@@ -61,6 +62,18 @@ MonoBehaviour:
   _contractNames: []
   _parentContractName: 
   _parentContractNames: []
+--- !u!114 &114113603817904650
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1084566714747498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfdbc8853a26d8c48a602cea35f52a45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _windowsContainer: {fileID: 0}
 --- !u!114 &114209210137146232
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -72,3 +85,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e03352f15f2db944a6bce895118be33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _windowsManager: {fileID: 114113603817904650}

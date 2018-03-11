@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UpdatableWindow : BaseWindow
+public class UpdatableWindowBase : WindowBase
 {
     public void UpdateInfo(object info)
     {

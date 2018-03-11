@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BaseWindow : MonoBehaviour 
+public class WindowBase : MonoBehaviour 
 {
     public void Init()
     {
