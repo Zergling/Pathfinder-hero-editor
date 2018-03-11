@@ -1,0 +1,13 @@
+
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890(%!?)"/|\'.:,;*АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя
+
+The quick brown fox jumps over the lazy dog
+
+Южно-эфиопский грач увёл мышь за хобот на съезд ящериц
+
+
+для Font Asset Creator
+Font size = Custom = 30
+Padding = 5
+Atlas resolution = 512 x 256
