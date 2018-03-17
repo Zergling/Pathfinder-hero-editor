@@ -17,6 +17,5 @@ public class MainInstaller : MonoInstaller
     public override void Start()
     {
         Debug.Log("MainInstaller Start");
-        _windowsManager.Show<FontTestWindow>();
     }
 }
