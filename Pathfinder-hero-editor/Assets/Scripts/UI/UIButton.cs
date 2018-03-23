@@ -6,41 +6,14 @@ using UnityEngine.EventSystems;
 
 public class UIButton : Button, IPointerDownHandler, IPointerUpHandler
 {
-	public void OnPointerDown(PointerEventData eventData)
+	[SerializeField] private GameObject _disabled;
+	[SerializeField] private GameObject _enabled;
+	[SerializeField] private GameObject _pressed;
+
+	protected override void DoStateTransition(SelectionState state, bool instant)
 	{
-		base.OnPointerDown(eventData);
-
-		if (!interactable)
-			return;
-		
-		OnPointerDownProcess();
-	}
-
-	public void OnPointerUp(PointerEventData eventData)
-	{
-		base.OnPointerUp(eventData);
-
-		if (!interactable)
-			return;
-		
-		OnPointerUpOrExitProcess();
-	}
-
-	public override void OnPointerExit(PointerEventData eventData)
-	{
-		base.OnPointerExit(eventData);
-
-		if (!interactable)
-			return;
-		
-		OnPointerUpOrExitProcess();
-	}
-
-	public virtual void OnPointerDownProcess()
-	{
-	}
-
-	public virtual void OnPointerUpOrExitProcess()
-	{
+		_disabled.SetActive(state == SelectionState.Disabled);
+		_enabled.SetActive(state == SelectionState.Normal || state == SelectionState.Highlighted);
+		_pressed.SetActive(state == SelectionState.Pressed);
 	}
 }
