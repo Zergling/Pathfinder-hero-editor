@@ -5,6 +5,7 @@ Pathfinder-hero-editor/[Bb]uild/
 Pathfinder-hero-editor/[Bb]uilds/
 Pathfinder-hero-editor/Assets/AssetStoreTools*
 [Aa]ndroid/*.*
+[Bb]uilds/*.*
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -34,3 +35,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+_resources/Kenney/_my/water-x5.psd
