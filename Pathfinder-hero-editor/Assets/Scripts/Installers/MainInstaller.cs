@@ -11,6 +11,8 @@ public class MainInstaller : MonoInstaller
     {
         Debug.Log("MainInstaller InstallBindings");
 
+		Signals.Bind();
+
         Container.BindInstance(_windowsManager).AsSingle();
     }
 
