@@ -55,9 +55,19 @@ MonoBehaviour:
   DefaultLanguage: English
   DetectLanguage: 1
   SaveLanguage: 1
-  Languages: []
+  Languages:
+  - Russian
+  - English
   Cultures: []
-  Phrases: []
+  Phrases:
+  - Name: test-key
+    Translations:
+    - Language: Russian
+      Text: RussianTranslation
+      Object: {fileID: 0}
+    - Language: English
+      Text: EnglishTranslation
+      Object: {fileID: 0}
 --- !u!114 &114648931324824408
 MonoBehaviour:
   m_ObjectHideFlags: 1
