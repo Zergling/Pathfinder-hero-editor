@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   android:
     packageName: com.ZerglingApps.PathfinderHeroEditor
-    version: 0.0.2
-    versionCode: 11
+    version: 0.0.7
+    versionCode: 16
   iOS:
     bundle: 
     version: 

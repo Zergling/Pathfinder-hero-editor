@@ -18,6 +18,6 @@ public class MainInstaller : MonoInstaller
 
     public override void Start()
     {
-        Debug.Log("MainInstaller Start");
+		Debug.Log("MainInstaller Start");
     }
 }
