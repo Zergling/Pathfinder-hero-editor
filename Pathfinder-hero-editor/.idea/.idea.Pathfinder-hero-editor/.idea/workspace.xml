@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d84e38fe-f6cc-4ee7-a29a-4ef1dd8ddd98" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1471496975">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Localization/LeanLocalizedTextMeshPro.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1523810518606" expanded="false" signature="6:116" ph="..." />
+                <marker date="1523810518606" expanded="true" signature="201:431" ph="{...}" />
+                <marker date="1523810518606" expanded="true" signature="272:429" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/External/LeanLocalization/Scripts/LeanLocalizedTextFont.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1515198461000" expanded="false" signature="6:40" ph="..." />
+                <marker date="1515198461000" expanded="true" signature="69:1124" ph="{...}" />
+                <marker date="1515198461000" expanded="true" signature="329:1122" ph="{...}" />
+                <marker date="1515198461000" expanded="true" signature="566:841" ph="{...}" />
+                <marker date="1515198461000" expanded="true" signature="715:769" ph="{...}" />
+                <marker date="1515198461000" expanded="true" signature="797:837" ph="{...}" />
+                <marker date="1515198461000" expanded="true" signature="875:1119" ph="{...}" />
+                <marker date="1515198461000" expanded="true" signature="942:1115" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/External/LeanLocalization/Editor/LeanLocalization_Editor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1515198455000" expanded="false" signature="6:71" ph="..." />
+                <marker date="1515198455000" expanded="true" signature="191:16947" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="217:281" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="939:1130" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="950:1126" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="983:1097" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="1166:2280" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="2378:2630" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="2701:3621" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="3515:3617" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="3659:4470" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="3900:4466" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="4010:4251" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="4285:4325" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="4334:4461" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="4531:6443" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="4746:5097" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="4861:5064" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="5218:6439" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="5411:5706" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="5599:5700" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="5830:6095" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="5865:5930" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="6128:6190" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="6267:6375" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="6384:6434" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="6569:7855" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="6629:7851" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="6932:7493" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="6966:7117" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="7219:7415" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="7448:7487" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="7502:7846" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="7615:7840" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="7915:9684" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="8127:8577" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="8175:8572" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="8301:8537" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="8660:9389" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="8787:9384" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="8896:9306" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="8932:8973" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="9076:9257" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="9176:9248" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="9339:9378" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="9447:9680" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="9616:9675" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="9775:10299" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="10063:10267" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="10223:10261" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="10358:11914" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="10545:10696" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="10782:11910" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="10929:11213" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="11110:11207" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="11312:11584" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="11345:11416" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="11615:11683" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="11739:11845" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="11854:11905" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="11997:14091" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="12087:13425" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="12253:12559" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="12452:12553" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="12677:12868" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="12904:12944" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="13011:13135" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="13144:13206" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="13279:13420" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="13484:14087" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="13610:14082" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="13798:14076" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="14152:14718" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="14811:15068" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="14842:14911" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="15121:15299" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="15346:15565" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="15598:15623" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="15660:15701" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="15736:15815" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="15783:15811" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="15899:16079" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="16142:16944" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="16470:16716" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="16545:16711" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="16778:16940" ph="{...}" />
+                <marker date="1515198455000" expanded="true" signature="16867:16935" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/External/LeanLocalization/Scripts/LeanLocalizedBehaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1515198452000" expanded="false" signature="6:51" ph="..." />
+                <marker date="1515198452000" expanded="true" signature="262:1604" ph="{...}" />
+                <marker date="1515198452000" expanded="true" signature="542:777" ph="{...}" />
+                <marker date="1515198452000" expanded="true" signature="553:732" ph="{...}" />
+                <marker date="1515198452000" expanded="true" signature="614:727" ph="{...}" />
+                <marker date="1515198452000" expanded="true" signature="740:773" ph="{...}" />
+                <marker date="1515198452000" expanded="true" signature="781:898" ph="/* This gets called every time the translation needs updating ... */" />
+                <marker date="1515198452000" expanded="true" signature="1060:1135" ph="{...}" />
+                <marker date="1515198452000" expanded="true" signature="1174:1276" ph="{...}" />
+                <marker date="1515198452000" expanded="true" signature="1316:1389" ph="{...}" />
+                <marker date="1515198452000" expanded="true" signature="1515:1594" ph="{...}" />
+                <marker date="1515198452000" expanded="true" signature="1554:1590" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/LocalizationConfiguratorEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1523809300585" expanded="false" signature="6:153" ph="..." />
+                <marker date="1523809300585" expanded="true" signature="256:1042" ph="{...}" />
+                <marker date="1523809300585" expanded="true" signature="297:386" ph="{...}" />
+                <marker date="1523809300585" expanded="true" signature="414:1040" ph="{...}" />
+                <marker date="1523809300585" expanded="true" signature="761:1037" ph="{...}" />
+                <marker date="1523809300585" expanded="true" signature="916:1033" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Localization/LocalizationConfigurator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1523808971483" expanded="false" signature="6:103" ph="..." />
+                <marker date="1523808971483" expanded="true" signature="159:486" ph="{...}" />
+                <marker date="1523808971483" expanded="true" signature="257:295" ph="{...}" />
+                <marker date="1523808971483" expanded="true" signature="338:383" ph="{...}" />
+                <marker date="1523808971483" expanded="true" signature="432:484" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/External/LeanLocalization/Scripts/LeanLocalizedBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/LocalizationConfiguratorEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/LeanLocalization/Editor/LeanLocalization_Editor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/External/LeanLocalization/Scripts/LeanLocalizedTextFont.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Localization/LeanLocalizedTextMeshPro.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Localization/LocalizationConfigurator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Configs" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="External" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="External" type="1045f7f1:UnityExplorerNode" />
+              <item name="LeanLocalization" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="External" type="1045f7f1:UnityExplorerNode" />
+              <item name="LeanLocalization" type="1045f7f1:UnityExplorerNode" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="External" type="1045f7f1:UnityExplorerNode" />
+              <item name="LeanLocalization" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Fonts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Prefabs" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Localization" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d84e38fe-f6cc-4ee7-a29a-4ef1dd8ddd98" name="Default Changelist" comment="" />
+      <created>1545835718516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545835718516</updated>
+      <workItem from="1545835724087" duration="82000" />
+      <workItem from="1550324708573" duration="2428000" />
+      <workItem from="1550329965381" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2537000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Localization/LeanLocalizedTextMeshPro.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1523810518606" expanded="false" signature="6:116" ph="..." />
+            <marker date="1523810518606" expanded="true" signature="201:431" ph="{...}" />
+            <marker date="1523810518606" expanded="true" signature="272:429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/External/LeanLocalization/Editor/LeanLocalization_Editor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1515198455000" expanded="false" signature="6:71" ph="..." />
+            <marker date="1515198455000" expanded="true" signature="191:16947" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="217:281" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="939:1130" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="950:1126" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="983:1097" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="1166:2280" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="2378:2630" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="2701:3621" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="3515:3617" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="3659:4470" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="3900:4466" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="4010:4251" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="4285:4325" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="4334:4461" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="4531:6443" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="4746:5097" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="4861:5064" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="5218:6439" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="5411:5706" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="5599:5700" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="5830:6095" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="5865:5930" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="6128:6190" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="6267:6375" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="6384:6434" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="6569:7855" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="6629:7851" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="6932:7493" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="6966:7117" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="7219:7415" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="7448:7487" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="7502:7846" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="7615:7840" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="7915:9684" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="8127:8577" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="8175:8572" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="8301:8537" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="8660:9389" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="8787:9384" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="8896:9306" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="8932:8973" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="9076:9257" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="9176:9248" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="9339:9378" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="9447:9680" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="9616:9675" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="9775:10299" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="10063:10267" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="10223:10261" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="10358:11914" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="10545:10696" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="10782:11910" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="10929:11213" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="11110:11207" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="11312:11584" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="11345:11416" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="11615:11683" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="11739:11845" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="11854:11905" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="11997:14091" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="12087:13425" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="12253:12559" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="12452:12553" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="12677:12868" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="12904:12944" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="13011:13135" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="13144:13206" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="13279:13420" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="13484:14087" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="13610:14082" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="13798:14076" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="14152:14718" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="14811:15068" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="14842:14911" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="15121:15299" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="15346:15565" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="15598:15623" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="15660:15701" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="15736:15815" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="15783:15811" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="15899:16079" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="16142:16944" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="16470:16716" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="16545:16711" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="16778:16940" ph="{...}" />
+            <marker date="1515198455000" expanded="true" signature="16867:16935" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/External/LeanLocalization/Scripts/LeanLocalizedBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1515198452000" expanded="false" signature="6:51" ph="..." />
+            <marker date="1515198452000" expanded="true" signature="262:1604" ph="{...}" />
+            <marker date="1515198452000" expanded="true" signature="542:777" ph="{...}" />
+            <marker date="1515198452000" expanded="true" signature="553:732" ph="{...}" />
+            <marker date="1515198452000" expanded="true" signature="614:727" ph="{...}" />
+            <marker date="1515198452000" expanded="true" signature="740:773" ph="{...}" />
+            <marker date="1515198452000" expanded="true" signature="781:898" ph="/* This gets called every time the translation needs updating ... */" />
+            <marker date="1515198452000" expanded="true" signature="1060:1135" ph="{...}" />
+            <marker date="1515198452000" expanded="true" signature="1174:1276" ph="{...}" />
+            <marker date="1515198452000" expanded="true" signature="1316:1389" ph="{...}" />
+            <marker date="1515198452000" expanded="true" signature="1515:1594" ph="{...}" />
+            <marker date="1515198452000" expanded="true" signature="1554:1590" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/LocalizationConfiguratorEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1523809300585" expanded="false" signature="6:153" ph="..." />
+            <marker date="1523809300585" expanded="true" signature="256:1042" ph="{...}" />
+            <marker date="1523809300585" expanded="true" signature="297:386" ph="{...}" />
+            <marker date="1523809300585" expanded="true" signature="414:1040" ph="{...}" />
+            <marker date="1523809300585" expanded="true" signature="761:1037" ph="{...}" />
+            <marker date="1523809300585" expanded="true" signature="916:1033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Localization/LocalizationConfigurator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1523808971483" expanded="false" signature="6:103" ph="..." />
+            <marker date="1523808971483" expanded="true" signature="159:486" ph="{...}" />
+            <marker date="1523808971483" expanded="true" signature="257:295" ph="{...}" />
+            <marker date="1523808971483" expanded="true" signature="338:383" ph="{...}" />
+            <marker date="1523808971483" expanded="true" signature="432:484" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/External/LeanLocalization/Scripts/LeanLocalizedTextFont.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1515198461000" expanded="false" signature="6:40" ph="..." />
+            <marker date="1515198461000" expanded="true" signature="329:1122" ph="{...}" />
+            <marker date="1515198461000" expanded="true" signature="566:841" ph="{...}" />
+            <marker date="1515198461000" expanded="true" signature="715:769" ph="{...}" />
+            <marker date="1515198461000" expanded="true" signature="797:837" ph="{...}" />
+            <marker date="1515198461000" expanded="true" signature="875:1119" ph="{...}" />
+            <marker date="1515198461000" expanded="true" signature="942:1115" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
